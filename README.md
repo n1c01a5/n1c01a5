@@ -1,16 +1,17 @@
 ### Hi there 👋
+# I'm Nicolas, founder of FEATURE.
 
-<!--
-**n1c01a5/n1c01a5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![n1c01a5's github stats](https://github-readme-stats.vercel.app/api?username=n1c01a5&show_icons=true&theme=radical&hide=stars)](https://github.com/n1c01a5/)
+- 🤖 I'm CEO of [FEATURE](https://feature.sh)
+- 🌱 I’m learning every day
+- 👯 I’m looking to collaborate on interesting blockchain projects
+- ⛓ I love Web3
+- 💬 Reach me: [NoahJerry96](https://twitter.com/NoahJerry96)
+- 📫 Via Email: [newcreationjerry96@gmail.com](https://twitter.com/newcreationjerry96@gmail.com)
+- 😃 Alias: n1c0
+- ⚡ Fun fact: Chess addict ♟
 
-Here are some ideas to get you started:
+### Get in touch with me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[💬 Twitter](https://twitter.com/w_n1c01a5)
+[📫 Mail](mailto://nicolas@feature.sh)
