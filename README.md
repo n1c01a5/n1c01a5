@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Nicolas, founder of FEATURE 🏗️.
+# I'm Nicolas, founder of FEATURE 🏗️
 
 [![n1c01a5's github stats](https://github-readme-stats.vercel.app/api?username=n1c01a5&show_icons=true&theme=radical&hide=stars)](https://github.com/n1c01a5/)
 - 🤖 I'm CEO of [FEATURE](https://feature.sh)
